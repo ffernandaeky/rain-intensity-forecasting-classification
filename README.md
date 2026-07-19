@@ -4,20 +4,27 @@ Proyek ini menggabungkan analisis data, forecasting, dan machine learning untuk 
 
 ## 🚀 Ringkasan proyek
 
-Dalam proyek ini, saya mengeksplorasi bagaimana data cuaca dapat diproses menjadi insight yang berguna melalui pendekatan:
+Dalam proyek ini, data cuaca diproses menjadi insight yang berguna melalui tiga tahapan utama:
 
-- forecasting untuk memprediksi curah hujan ke depannya
-- klasifikasi untuk mengelompokkan intensitas hujan
-- evaluasi model untuk membandingkan performa berbagai pendekatan
+1. Pengumpulan dan pembersihan data
+2. Pembangunan model forecasting dan klasifikasi
+3. Evaluasi hasil untuk melihat performa model secara lebih jelas
 
-## ✨ Highlights
+## ✨ Apa yang membuat proyek ini menarik?
 
 - Menganalisis data curah hujan dari sumber BMKG
 - Membangun model prediksi berbasis time series
-- Menggunakan pendekatan machine learning untuk klasifikasi intensitas hujan
-- Membandingkan beberapa algoritma populer seperti ARIMA, Exponential Smoothing, dan PyCaret
+- Menggunakan machine learning untuk mengklasifikasikan intensitas hujan
+- Membandingkan berbagai pendekatan seperti ARIMA, Exponential Smoothing, dan PyCaret
 
-## 🧠 Teknologi yang digunakan
+## 🧩 Alur kerja proyek
+
+- Data diolah dan dibersihkan agar siap digunakan
+- Model dibuat untuk memprediksi pola hujan ke depan
+- Hasil evaluasi digunakan untuk melihat seberapa baik model bekerja
+- Insight dari model disusun menjadi informasi yang mudah dipahami
+
+## 🛠️ Teknologi yang digunakan
 
 - Python
 - Jupyter Notebook
@@ -38,13 +45,21 @@ Dalam proyek ini, saya mengeksplorasi bagaimana data cuaca dapat diproses menjad
 
 Beberapa file hasil pelatihan, artefak model, dan data output besar sengaja tidak dimasukkan ke repository agar proyek tetap rapi, ringan, dan mudah dikelola.
 
-## 🌍 Mengapa proyek ini menarik?
+## 🎯 Hasil yang diharapkan
+
+Proyek ini diharapkan dapat memberikan:
+
+- pemahaman yang lebih baik mengenai pola hujan
+- prediksi curah hujan yang lebih informatif
+- gambaran mengenai kemampuan machine learning dalam menangani masalah cuaca
+
+## 🌍 Mengapa proyek ini relevan?
 
 Karena menggabungkan dua kemampuan penting dalam data science:
 - prediksi masa depan melalui forecasting
 - pemahaman pola kategori melalui klasifikasi
 
-Hal ini membuat proyek ini relevan, aplikatif, dan cocok untuk dipresentasikan sebagai karya analisis data yang nyata.
+Kombinasi ini membuat proyek ini sangat relevan untuk diterapkan pada masalah nyata di bidang cuaca dan lingkungan.
 
 ## ▶️ Cara menjalankan
 
@@ -58,8 +73,8 @@ git clone https://github.com/ffernandaeky/rain-intensity-forecasting-classificat
 
 ---
 
-Jika Anda ingin, saya juga bisa bantu menambahkan bagian berikut:
+Jika Anda ingin, saya juga bisa membantu menambahkan bagian berikut untuk membuat README semakin menarik:
 - badge teknologi
-- tampilan hasil model
+- bagian hasil visualisasi
 - section "How it works"
 - versi README yang lebih formal dan portfolio-ready
