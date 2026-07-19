@@ -22,8 +22,6 @@ ENV/
 *.onnx
 *.pb
 *.model
-saved_models/
-catboost_info/
 
 # Generated outputs and reports
 forecast_results/
@@ -36,15 +34,7 @@ iframe_figures/
 !/Forecasting\ &\ Klasifikasi\ Intensitas\ Hujan\ Exponensial\ Smoothing.ipynb
 !/Forecasting\ &\ Klasifikasi\ Intensitas\ Hujan\ Pycaret.ipynb
 
-# Dataset and output files that are usually not needed in GitHub
-# Uncomment the next lines if you want to keep the data files in the repository.
-data_stasiun.csv
-data_stasiun_bmkg.csv
-data_stasiun_forecasted.csv
-data_stasiun_new.csv
-data_curah_hujan_bmkg2024.xlsx
-hasil_forecast_curah_hujan_exponensmooth.csv
-hasil_forecast_curah_hujan_pycaret.csv
-hasil_forecast_pycaret.csv
-hasil_klasifikasi_intensitas_hujan_exponensialsmooth.csv
-hasil_klasifikasi_intensitas_hujan_pycaret.csv
+# Data files and generated artifacts are now allowed to be tracked
+catboost_info/
+saved_models/
+
