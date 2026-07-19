@@ -60,15 +60,3 @@ Karena menggabungkan dua kemampuan penting dalam data science:
 - pemahaman pola kategori melalui klasifikasi
 
 Kombinasi ini membuat proyek ini sangat relevan untuk diterapkan pada masalah nyata di bidang cuaca dan lingkungan.
-
-## ▶️ Cara menjalankan
-
-1. Clone repository ini
-2. Buka notebook yang tersedia di folder proyek
-3. Jalankan sel demi sel untuk melihat proses analisis dan pemodelan
-
-```bash
-git clone https://github.com/ffernandaeky/rain-intensity-forecasting-classification.git
-```
-
----
