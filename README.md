@@ -72,9 +72,3 @@ git clone https://github.com/ffernandaeky/rain-intensity-forecasting-classificat
 ```
 
 ---
-
-Jika Anda ingin, saya juga bisa membantu menambahkan bagian berikut untuk membuat README semakin menarik:
-- badge teknologi
-- bagian hasil visualisasi
-- section "How it works"
-- versi README yang lebih formal dan portfolio-ready
